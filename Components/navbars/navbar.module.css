@@ -1,0 +1,66 @@
+.userMainDiv {
+  display: flex;
+}
+
+.navitems {
+  font-family: montserrat;
+  color: #505e86;
+
+}
+
+
+.navitems:hover {
+  border: 2px outset black;
+  background-color: #d9d9e0;
+}
+
+.navitems button {
+  padding: 6px 20px;
+  border: 2px inset black;
+}
+
+.navToggle{
+  background: transparent !important; 
+  border: 0 !important;
+  color: #505e86 !important;
+  font-style: bold;
+}
+
+.navDropMenu{
+  background-color: #EEEEEE;
+  width: 400px;
+}
+
+.navDropMenu h6{
+  text-align: center;
+}
+
+.navDropMenuNoWidth{
+  background-color: #EEEEEE;
+  
+}
+
+
+.customnavdropdown .dropdown-menu {
+  margin-top: 3px;
+}
+
+.searchDropdownMenu {
+  width: 300px;
+  background-color: #EEEEEE;
+}
+
+.searchInput::placeholder {
+  font-family: Montserrat, sans-serif;
+}
+
+.signout{
+    width: 100%;
+    background-color: #00ADB5;
+}
+
+.signout:hover{
+    color: black;
+    border: 2px solid black;
+    background-color: #d9d9e0;
+}

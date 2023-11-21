@@ -1,0 +1,28 @@
+
+.mondalbody{
+    background-color: #EEEEEE;
+    font-family: monteserrat;
+}
+
+.form{
+    width: 50%;
+}
+
+.formgroup{
+    margin-bottom: 10px;
+}
+
+.button{
+    width: 100%;
+    background-color: #00ADB5;
+}
+
+.button:hover{
+    color: black;
+    border: 2px solid black;
+    background-color: #d9d9e0;
+}
+
+.formtext{
+    justify-content: end;
+}
